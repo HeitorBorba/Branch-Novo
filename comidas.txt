@@ -3,3 +3,5 @@ bife
 arroz
 feijao
 macarrao
+queijo
+salame
